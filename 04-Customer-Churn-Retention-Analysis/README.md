@@ -2,6 +2,10 @@
 
 Analysis of customer churn patterns using Python and Power BI, including exploratory analysis, statistical testing, customer segmentation, and revenue-at-risk analysis.
 
+## Power BI Dashboard
+
+![Customer Churn & Retention Dashboard](dashboard.png)
+
 ## Key Findings
 
 - Overall churn rate: **26.54%**
