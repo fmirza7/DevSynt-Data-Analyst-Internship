@@ -6,6 +6,10 @@ An end-to-end business analysis of the Chinook music store database using SQL, P
 
 The project analyzes revenue, customers, orders, genres, artists, sales trends, and customer segments to identify useful business insights.
 
+## Power BI Dashboard
+
+![Chinook Business Analysis Dashboard](dashboard.png)
+
 ## Tools
 
 - SQLite / SQL
